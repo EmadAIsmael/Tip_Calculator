@@ -521,6 +521,18 @@ files:
   visible: false
   text: sdk=28
   learner_created: false
+- name: src/main/res/values/integers.xml
+  visible: true
+  text: |-
+    <?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <integer name="slider_max_val">100</integer>
+        <integer name="slider_step_val">1</integer>
+    </resources>
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/158/stages/825/implement#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Tue, 02 Mar 2021 12:59:46 UTC
 record: -1

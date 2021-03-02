@@ -41,7 +41,7 @@ class MainActivity : AppCompatActivity() {
                             textView.setVisibility(View.INVISIBLE)
                         } else {
                             textView.setVisibility(View.VISIBLE)
-                            val v = editText.text.toString().toBigDecimal()
+                            val v = editText.text.toString().toDouble()
                             updateTextView(v)
                         }
                     }
@@ -53,16 +53,17 @@ class MainActivity : AppCompatActivity() {
                 textView.setVisibility(View.INVISIBLE)
             } else {
                 textView.setVisibility(View.VISIBLE)
-                val v = editText.text.toString().toBigDecimal()
+                val v = editText.text.toString().toDouble()
                 updateTextView(v)
             }
         }
     }
 
-    fun updateTextView(v: BigDecimal) {
+    fun updateTextView(v: Double) {
         val p = theSlider.value
-        // val P = v * p / 100.0
-        val content = "Bill value: ${"%.0f".format(v)}, tip percentage: ${"%.0f%%".format(p)}"
+        val P = v * p / 100.0
+        // val content = "Bill value: ${"%.0f".format(v)}, tip percentage: ${"%.0f%%".format(p)}"
+        val content = "Tip amount: ${"%.2f".format(P)}"
         textView.setText(content)
     }
 }

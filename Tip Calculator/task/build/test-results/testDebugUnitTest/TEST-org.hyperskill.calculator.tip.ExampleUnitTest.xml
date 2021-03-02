@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.hyperskill.calculator.tip.ExampleUnitTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-03-02T11:13:21" hostname="XPS-L702X" time="26.969">
+<testsuite name="org.hyperskill.calculator.tip.ExampleUnitTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-03-02T12:59:21" hostname="XPS-L702X" time="24.645">
   <properties/>
-  <testcase name="testShouldCheckSliderListenerLast" classname="org.hyperskill.calculator.tip.ExampleUnitTest" time="20.505"/>
-  <testcase name="testShouldCheckEditTextListenerFirst" classname="org.hyperskill.calculator.tip.ExampleUnitTest" time="1.123"/>
-  <testcase name="testShouldCheckTextViewExist" classname="org.hyperskill.calculator.tip.ExampleUnitTest" time="0.974"/>
-  <testcase name="testShouldCheckSliderExist" classname="org.hyperskill.calculator.tip.ExampleUnitTest" time="0.897"/>
-  <testcase name="testShouldCheckSliderListenerFirst" classname="org.hyperskill.calculator.tip.ExampleUnitTest" time="1.03"/>
-  <testcase name="testShouldCheckEditTextExist" classname="org.hyperskill.calculator.tip.ExampleUnitTest" time="0.854"/>
-  <testcase name="testShouldCheckEditTextListenerLast" classname="org.hyperskill.calculator.tip.ExampleUnitTest" time="0.822"/>
-  <testcase name="testShouldCheckLongJustForFun" classname="org.hyperskill.calculator.tip.ExampleUnitTest" time="0.764"/>
+  <testcase name="testShouldCheckSliderListenerLast" classname="org.hyperskill.calculator.tip.ExampleUnitTest" time="17.471"/>
+  <testcase name="testShouldCheckEditTextListenerFirst" classname="org.hyperskill.calculator.tip.ExampleUnitTest" time="1.535"/>
+  <testcase name="testShouldCheckTextViewExist" classname="org.hyperskill.calculator.tip.ExampleUnitTest" time="1.12"/>
+  <testcase name="testShouldCheckSliderExist" classname="org.hyperskill.calculator.tip.ExampleUnitTest" time="1.116"/>
+  <testcase name="testShouldCheckSliderListenerFirst" classname="org.hyperskill.calculator.tip.ExampleUnitTest" time="1.254"/>
+  <testcase name="testShouldCheckEditTextExist" classname="org.hyperskill.calculator.tip.ExampleUnitTest" time="1.248"/>
+  <testcase name="testShouldCheckEditTextListenerLast" classname="org.hyperskill.calculator.tip.ExampleUnitTest" time="0.488"/>
+  <testcase name="testShouldCheckLongJustForFun" classname="org.hyperskill.calculator.tip.ExampleUnitTest" time="0.41"/>
   <system-out><![CDATA[[Robolectric] org.hyperskill.calculator.tip.ExampleUnitTest.testShouldCheckSliderListenerLast: sdk=28; resources=BINARY
 Called loadFromPath(/system/framework/framework-res.apk, true); mode=binary sdk=28
 [Robolectric] org.hyperskill.calculator.tip.ExampleUnitTest.testShouldCheckEditTextListenerFirst: sdk=28; resources=BINARY

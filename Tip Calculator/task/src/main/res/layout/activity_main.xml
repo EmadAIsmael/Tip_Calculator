@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:autofillHints="yes"
         android:hint="@android:string/untitled"
-        android:inputType="number" />
+        android:inputType="number|numberDecimal" />
 
     <com.google.android.material.slider.Slider
         android:id="@+id/slider"
