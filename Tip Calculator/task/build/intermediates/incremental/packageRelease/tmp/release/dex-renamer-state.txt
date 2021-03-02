@@ -1,0 +1,4 @@
+#Tue Mar 02 13:13:14 EET 2021
+base.0=/home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

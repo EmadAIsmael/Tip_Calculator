@@ -1,0 +1,177 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.core:core-ktx:1.3.2] /home/emad/.gradle/caches/transforms-2/files-2.1/dd041190546750836e7788f32a8b524a/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.3.0-beta01] /home/emad/.gradle/caches/transforms-2/files-2.1/5834a548e9b9742f70b26160aa5d70b2/material-1.3.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/emad/.gradle/caches/transforms-2/files-2.1/1cf3b834bb085bb01b067477538c919c/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/emad/.gradle/caches/transforms-2/files-2.1/e60499b8226e4d5b3c89cafbe2872c4a/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/a0c00950c1617652b05133a4e5d95eb6/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/emad/.gradle/caches/transforms-2/files-2.1/0e5005cbdcf98579e7f9ab7b456a9e0f/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/emad/.gradle/caches/transforms-2/files-2.1/9cb40d3518cf6492330afe8b78c9727f/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/ca15bf5e7f38eecb79f595a71749aad8/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/emad/.gradle/caches/transforms-2/files-2.1/8d7939fc5bebb0e96c495c073468a88a/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/1d4dab0cb0b04fa5152fe2170b9273ff/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/emad/.gradle/caches/transforms-2/files-2.1/db3d17dff5427d0ccb143ff23db76b62/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/emad/.gradle/caches/transforms-2/files-2.1/369ed216ba4dad00603ca484cc5e8442/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/emad/.gradle/caches/transforms-2/files-2.1/0bd7bb57d9e06229474ba248e1897627/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/20a5614589485fdd0b11041124e469e1/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/d5da4e75b65bb1867ab08aac9853b621/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/846ed24b63d65031eab655e554bfb0b5/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/e0a3cbe66f34bb00b4c3d679e4585428/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/emad/.gradle/caches/transforms-2/files-2.1/10d0230cf3f2cd766a50ab08bb4a7d87/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/c274babc2c2ebad1ccc4e30db3b4c429/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] /home/emad/.gradle/caches/transforms-2/files-2.1/31a3c8232b564d9f7ded944c2950cbf6/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/6cb5aba1c26e65dd61c480892828ea55/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/1c3a1df31744861a9c6723b84f8a0527/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/emad/.gradle/caches/transforms-2/files-2.1/c55fcf495c484de92d2753d45f85e77e/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/emad/.gradle/caches/transforms-2/files-2.1/90b9e4c994e5c499d2e29a3a49d25967/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/emad/.gradle/caches/transforms-2/files-2.1/6b124741d49eb325f5cc05914a30274c/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/fdf02435e2f9c600f8c771c6d5e73e9c/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/39d718f8c124ffab8a6f528c6c281c9e/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/530eb135f30bb0de37eb4dcf01f76f49/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/76dc51ee46fc841309df514cff29e2d7/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/8d19a906e4f2c29deaed77314f8ce4d9/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/dbb6bd328bc59357ffa85cff67f5638c/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/3761833aadbb3ea0185918f9c2fb6f93/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/556f6e37b89d58ad3a6d4ca764bf1573/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/9c0c2ba378b632260ab29361ec717b5b/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml
+		INJECTED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml
+		ADDED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml
+		ADDED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:5:3-19:17
+MERGED from [com.google.android.material:material:1.3.0-beta01] /home/emad/.gradle/caches/transforms-2/files-2.1/5834a548e9b9742f70b26160aa5d70b2/material-1.3.0-beta01/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0-beta01] /home/emad/.gradle/caches/transforms-2/files-2.1/5834a548e9b9742f70b26160aa5d70b2/material-1.3.0-beta01/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/emad/.gradle/caches/transforms-2/files-2.1/1cf3b834bb085bb01b067477538c919c/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/emad/.gradle/caches/transforms-2/files-2.1/1cf3b834bb085bb01b067477538c919c/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.2] /home/emad/.gradle/caches/transforms-2/files-2.1/31a3c8232b564d9f7ded944c2950cbf6/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /home/emad/.gradle/caches/transforms-2/files-2.1/31a3c8232b564d9f7ded944c2950cbf6/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/emad/.gradle/caches/transforms-2/files-2.1/c55fcf495c484de92d2753d45f85e77e/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/emad/.gradle/caches/transforms-2/files-2.1/c55fcf495c484de92d2753d45f85e77e/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /home/emad/.gradle/caches/transforms-2/files-2.1/31a3c8232b564d9f7ded944c2950cbf6/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:10:7-33
+	android:label
+		ADDED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:9:7-52
+	android:icon
+		ADDED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:7:7-41
+	android:allowBackup
+		ADDED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:6:7-33
+	android:theme
+		ADDED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:11:7-38
+activity#org.hyperskill.calculator.tip.MainActivity
+ADDED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:12:5-18:16
+	android:name
+		ADDED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:12:15-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:13:7-17:23
+action#android.intent.action.MAIN
+ADDED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:14:9-61
+	android:name
+		ADDED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:14:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:16:9-69
+	android:name
+		ADDED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:16:19-66
+uses-sdk
+INJECTED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml
+INJECTED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.3.2] /home/emad/.gradle/caches/transforms-2/files-2.1/dd041190546750836e7788f32a8b524a/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /home/emad/.gradle/caches/transforms-2/files-2.1/dd041190546750836e7788f32a8b524a/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.3.0-beta01] /home/emad/.gradle/caches/transforms-2/files-2.1/5834a548e9b9742f70b26160aa5d70b2/material-1.3.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0-beta01] /home/emad/.gradle/caches/transforms-2/files-2.1/5834a548e9b9742f70b26160aa5d70b2/material-1.3.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/emad/.gradle/caches/transforms-2/files-2.1/1cf3b834bb085bb01b067477538c919c/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/emad/.gradle/caches/transforms-2/files-2.1/1cf3b834bb085bb01b067477538c919c/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/emad/.gradle/caches/transforms-2/files-2.1/e60499b8226e4d5b3c89cafbe2872c4a/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/emad/.gradle/caches/transforms-2/files-2.1/e60499b8226e4d5b3c89cafbe2872c4a/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/a0c00950c1617652b05133a4e5d95eb6/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/a0c00950c1617652b05133a4e5d95eb6/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/emad/.gradle/caches/transforms-2/files-2.1/0e5005cbdcf98579e7f9ab7b456a9e0f/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/emad/.gradle/caches/transforms-2/files-2.1/0e5005cbdcf98579e7f9ab7b456a9e0f/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/emad/.gradle/caches/transforms-2/files-2.1/9cb40d3518cf6492330afe8b78c9727f/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/emad/.gradle/caches/transforms-2/files-2.1/9cb40d3518cf6492330afe8b78c9727f/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/ca15bf5e7f38eecb79f595a71749aad8/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/ca15bf5e7f38eecb79f595a71749aad8/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/emad/.gradle/caches/transforms-2/files-2.1/8d7939fc5bebb0e96c495c073468a88a/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/emad/.gradle/caches/transforms-2/files-2.1/8d7939fc5bebb0e96c495c073468a88a/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/1d4dab0cb0b04fa5152fe2170b9273ff/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/1d4dab0cb0b04fa5152fe2170b9273ff/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/emad/.gradle/caches/transforms-2/files-2.1/db3d17dff5427d0ccb143ff23db76b62/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/emad/.gradle/caches/transforms-2/files-2.1/db3d17dff5427d0ccb143ff23db76b62/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/emad/.gradle/caches/transforms-2/files-2.1/369ed216ba4dad00603ca484cc5e8442/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/emad/.gradle/caches/transforms-2/files-2.1/369ed216ba4dad00603ca484cc5e8442/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/emad/.gradle/caches/transforms-2/files-2.1/0bd7bb57d9e06229474ba248e1897627/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/emad/.gradle/caches/transforms-2/files-2.1/0bd7bb57d9e06229474ba248e1897627/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/20a5614589485fdd0b11041124e469e1/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/20a5614589485fdd0b11041124e469e1/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/d5da4e75b65bb1867ab08aac9853b621/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/d5da4e75b65bb1867ab08aac9853b621/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/846ed24b63d65031eab655e554bfb0b5/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/846ed24b63d65031eab655e554bfb0b5/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/e0a3cbe66f34bb00b4c3d679e4585428/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/e0a3cbe66f34bb00b4c3d679e4585428/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/emad/.gradle/caches/transforms-2/files-2.1/10d0230cf3f2cd766a50ab08bb4a7d87/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/emad/.gradle/caches/transforms-2/files-2.1/10d0230cf3f2cd766a50ab08bb4a7d87/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/c274babc2c2ebad1ccc4e30db3b4c429/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/c274babc2c2ebad1ccc4e30db3b4c429/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] /home/emad/.gradle/caches/transforms-2/files-2.1/31a3c8232b564d9f7ded944c2950cbf6/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /home/emad/.gradle/caches/transforms-2/files-2.1/31a3c8232b564d9f7ded944c2950cbf6/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/6cb5aba1c26e65dd61c480892828ea55/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/6cb5aba1c26e65dd61c480892828ea55/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/1c3a1df31744861a9c6723b84f8a0527/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/1c3a1df31744861a9c6723b84f8a0527/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/emad/.gradle/caches/transforms-2/files-2.1/c55fcf495c484de92d2753d45f85e77e/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/emad/.gradle/caches/transforms-2/files-2.1/c55fcf495c484de92d2753d45f85e77e/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/emad/.gradle/caches/transforms-2/files-2.1/90b9e4c994e5c499d2e29a3a49d25967/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/emad/.gradle/caches/transforms-2/files-2.1/90b9e4c994e5c499d2e29a3a49d25967/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/emad/.gradle/caches/transforms-2/files-2.1/6b124741d49eb325f5cc05914a30274c/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/emad/.gradle/caches/transforms-2/files-2.1/6b124741d49eb325f5cc05914a30274c/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/fdf02435e2f9c600f8c771c6d5e73e9c/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/fdf02435e2f9c600f8c771c6d5e73e9c/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/39d718f8c124ffab8a6f528c6c281c9e/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/39d718f8c124ffab8a6f528c6c281c9e/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/530eb135f30bb0de37eb4dcf01f76f49/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/530eb135f30bb0de37eb4dcf01f76f49/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/76dc51ee46fc841309df514cff29e2d7/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/76dc51ee46fc841309df514cff29e2d7/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/8d19a906e4f2c29deaed77314f8ce4d9/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/8d19a906e4f2c29deaed77314f8ce4d9/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/dbb6bd328bc59357ffa85cff67f5638c/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/dbb6bd328bc59357ffa85cff67f5638c/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/3761833aadbb3ea0185918f9c2fb6f93/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/3761833aadbb3ea0185918f9c2fb6f93/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/556f6e37b89d58ad3a6d4ca764bf1573/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/556f6e37b89d58ad3a6d4ca764bf1573/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/9c0c2ba378b632260ab29361ec717b5b/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/emad/.gradle/caches/transforms-2/files-2.1/9c0c2ba378b632260ab29361ec717b5b/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml
+INJECTED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml
+		ADDED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml
+		INJECTED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml
+		ADDED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml
+		INJECTED from /home/emad/Documents/Development/LEARN/LearnKotlin/hyperskill/kotlin/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml
